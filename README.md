@@ -1,3 +1,5 @@
+![Sales Dashboard](dashboard.png)
+
 
 # Superstore Sales Analysis - Alfido Tech Task
 
